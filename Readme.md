@@ -1,7 +1,7 @@
 # HR-Attrition-Analysis-and-Prediction
 
 ## 📌 Project Overview
-Employee attrition is a critical challenge for organizations, impacting productivity, recruitment costs, and overall business performance. This project analyzes an **HR Attrition dataset of 1,500 employees**, performs **feature engineering**, and implements **machine learning models** to predict employee attrition.
+Employee attrition is a critical challenge for organizations, impacting productivity, recruitment costs, and overall business performance. This project analyzes an **HR Attrition dataset of 1,470 employees**, performs **feature engineering**, and implements **machine learning models** to predict employee attrition.
 
 The project follows an **end-to-end workflow**, including **data exploration, preprocessing, modeling, evaluation, and comparison** of three classification algorithms.
 
