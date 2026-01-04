@@ -8,8 +8,8 @@ The project follows an **end-to-end workflow**, including **data exploration, pr
 ---
 
 ## 🗂 Dataset
-- **Source:** Internal HR dataset (or add public source if applicable)  
-- **Size:** 1,500 employee records  
+- **Source:** Internal HR dataset   
+- **Size:** 1,470 employee records  
 - **Features:** Demographics, job satisfaction, work experience, performance metrics, etc.  
 - **Target:** `Attrition` (Yes/No)
 
